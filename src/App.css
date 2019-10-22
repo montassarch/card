@@ -1,0 +1,49 @@
+ .credit-card-style {
+  height: 50%;
+  width: 30%;
+   background-image: url(https://previews.123rf.com/images/lishchyshyn/lishchyshyn1904/lishchyshyn190402620/121700238-global-planet-background-global-network-planet-earth-world-map-point-.jpg);  
+  background-size: cover;
+   border-radius: 20px;
+  margin: 15% 20%;
+  padding: 10px; 
+} 
+ .title{ 
+  color: white;
+  font-weight: bold;
+  font-size: 26px;
+  text-align: end;
+  margin: -3px;
+}
+.puce{
+  border-radius: 15px;
+  width: 60px;
+  height: 45px;
+}
+.creditcard-information{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.mastercard{
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px
+}
+.infos{
+  display: flex;
+  justify-content: space-between;
+
+}
+.pass{
+  margin-right: 10%
+}
+.pass-number {
+  color: rgb(203, 207, 133);
+  background: transparent;
+  width: 100%;
+  font-size: 200%;
+}
+.year{
+  margin-left: 17%;
+  position: absolute
+} 
